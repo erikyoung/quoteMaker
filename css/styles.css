@@ -1,0 +1,39 @@
+#background {
+	font-family: 'Raleway', sans-serif;
+  	font-weight:400;
+  
+}
+
+#quote-box {
+	background: url('../images/gravel.png'); 
+	color: black;
+	padding: 20px;
+	height: 400px;
+	padding-top: 30px;
+	box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+}
+
+.hello {
+	text-align: center;
+	font-size: 35px;
+	margin-top: 50px;
+}
+
+#log {
+	
+	font-size: 30px;
+	text-align: center;
+}
+
+#text {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#author {
+	
+}
+
+#new-quote {
+	
+}
